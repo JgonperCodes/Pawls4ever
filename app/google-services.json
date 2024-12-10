@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431150964514",
+    "project_id": "proyectopawls4ever",
+    "storage_bucket": "proyectopawls4ever.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431150964514:android:3144d5c1ac7c53c95e4f7b",
+        "android_client_info": {
+          "package_name": "com.example.pawls4ever"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2SHQT8xLhdBhAjys5mk0vOPuUKesuWCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
